@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently Student of Informatics ITS
 - 🤔 &nbsp; Exploring new technologies and developing software.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 💼 &nbsp; Android developer and fullstack web developer.
 - 🌱 &nbsp; Teaching Mathematics as freelance tutor.
 - ✍️ &nbsp; Watching movie/series or playing football.
 - ☕ &nbsp; Take a break sometimes can break your problem.

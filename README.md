@@ -9,7 +9,7 @@
 - 💼 &nbsp; Android developer and fullstack web developer.
 - 🌱 &nbsp; Teaching Mathematics as freelance tutor.
 - ✍️ &nbsp; Watching movie/series or playing football.
-- ☕ &nbsp; Take a break sometimes can break your problem.
+- ☕ &nbsp; Like coffee and tea.
 
 <h3>🛠 Tech Stack</h3>
 
